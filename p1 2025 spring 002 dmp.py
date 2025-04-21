@@ -137,7 +137,7 @@ def main_dmp():
 # Intro Message
 print("Project 1 for CS341")
 print("Section: 002")
-print("Semester: Spring 2024")
+print("Semester: Spring 2025")
 print("Written by: Daniel Pol (dmp)")
 print("Instructor: Arashdeep Kaur, ak3257@njit.edu\n")
 
