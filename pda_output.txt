@@ -1,0 +1,2171 @@
+15
+Testing: abbba43.51386abbba
+-----------------------------------------------------------
+Present State: q0
+Current input symbol under R-head: epsilon
+Stack Top: epsilon
+Symbol popped from Stack: epsilon
+Symbols pushed onto Stack: S
+Next state: q1
+-----------------------------------------------------------
+Present State: q1
+Current input symbol under R-head: epsilon
+Stack Top: S
+Symbol popped from Stack: S
+Symbols pushed onto Stack: aTa
+Next state: q2
+-----------------------------------------------------------
+Present State: q2
+Current input symbol under R-head: a
+Stack Top: a
+Symbol popped from Stack: a
+Symbols pushed onto Stack: epsilon
+Next state: q2
+-----------------------------------------------------------
+Present State: q2
+Current input symbol under R-head: epsilon
+Stack Top: T
+Symbol popped from Stack: T
+Symbols pushed onto Stack: bTb
+Next state: q2
+-----------------------------------------------------------
+Present State: q2
+Current input symbol under R-head: b
+Stack Top: b
+Symbol popped from Stack: b
+Symbols pushed onto Stack: epsilon
+Next state: q2
+-----------------------------------------------------------
+Present State: q2
+Current input symbol under R-head: epsilon
+Stack Top: T
+Symbol popped from Stack: T
+Symbols pushed onto Stack: bTb
+Next state: q2
+-----------------------------------------------------------
+Present State: q2
+Current input symbol under R-head: b
+Stack Top: b
+Symbol popped from Stack: b
+Symbols pushed onto Stack: epsilon
+Next state: q2
+-----------------------------------------------------------
+Present State: q2
+Current input symbol under R-head: epsilon
+Stack Top: T
+Symbol popped from Stack: T
+Symbols pushed onto Stack: bTb
+Next state: q2
+-----------------------------------------------------------
+Present State: q2
+Current input symbol under R-head: b
+Stack Top: b
+Symbol popped from Stack: b
+Symbols pushed onto Stack: epsilon
+Next state: q2
+-----------------------------------------------------------
+Present State: q2
+Current input symbol under R-head: epsilon
+Stack Top: T
+Symbol popped from Stack: T
+Symbols pushed onto Stack: aCa
+Next state: q3
+-----------------------------------------------------------
+Present State: q3
+Current input symbol under R-head: a
+Stack Top: a
+Symbol popped from Stack: a
+Symbols pushed onto Stack: epsilon
+Next state: q3
+-----------------------------------------------------------
+Present State: q3
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: H
+Next state: q4
+-----------------------------------------------------------
+Present State: q4
+Current input symbol under R-head: epsilon
+Stack Top: H
+Symbol popped from Stack: H
+Symbols pushed onto Stack: Y.Y
+Next state: q5
+-----------------------------------------------------------
+Present State: q5
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 4
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 4
+Stack Top: 4
+Symbol popped from Stack: 4
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 3
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 3
+Stack Top: 3
+Symbol popped from Stack: 3
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 5
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 5
+Stack Top: 5
+Symbol popped from Stack: 5
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 1
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 1
+Stack Top: 1
+Symbol popped from Stack: 1
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: a
+Symbol popped from Stack: a
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 3
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 3
+Stack Top: 3
+Symbol popped from Stack: 3
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: b
+Symbol popped from Stack: b
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 8
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 8
+Stack Top: 8
+Symbol popped from Stack: 8
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: b
+Symbol popped from Stack: b
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 6
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 6
+Stack Top: 6
+Symbol popped from Stack: 6
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: a
+Stack Top: b
+Symbol popped from Stack: b
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: b
+Stack Top: a
+Symbol popped from Stack: a
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: b
+Stack Top: epsilon
+Symbol popped from Stack: epsilon
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: b
+Stack Top: epsilon
+Symbol popped from Stack: epsilon
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: a
+Stack Top: epsilon
+Symbol popped from Stack: epsilon
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+String 'abbba43.51386abbba' is accepted.
+Testing: aa.78+27.-3.013/837.842+aa
+String 'aa.78+27.-3.013/837.842+aa' is rejected.
+Testing: aa48622.+.41*1.2/00.1/521.23-.9+.53/7.aa
+-----------------------------------------------------------
+Present State: q0
+Current input symbol under R-head: epsilon
+Stack Top: epsilon
+Symbol popped from Stack: epsilon
+Symbols pushed onto Stack: S
+Next state: q1
+-----------------------------------------------------------
+Present State: q1
+Current input symbol under R-head: epsilon
+Stack Top: S
+Symbol popped from Stack: S
+Symbols pushed onto Stack: aTa
+Next state: q2
+-----------------------------------------------------------
+Present State: q2
+Current input symbol under R-head: a
+Stack Top: a
+Symbol popped from Stack: a
+Symbols pushed onto Stack: epsilon
+Next state: q2
+-----------------------------------------------------------
+Present State: q2
+Current input symbol under R-head: epsilon
+Stack Top: T
+Symbol popped from Stack: T
+Symbols pushed onto Stack: aCa
+Next state: q3
+-----------------------------------------------------------
+Present State: q3
+Current input symbol under R-head: a
+Stack Top: a
+Symbol popped from Stack: a
+Symbols pushed onto Stack: epsilon
+Next state: q3
+-----------------------------------------------------------
+Present State: q3
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: H
+Next state: q4
+-----------------------------------------------------------
+Present State: q4
+Current input symbol under R-head: epsilon
+Stack Top: H
+Symbol popped from Stack: H
+Symbols pushed onto Stack: Y.Y
+Next state: q5
+-----------------------------------------------------------
+Present State: q5
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 4
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 4
+Stack Top: 4
+Symbol popped from Stack: 4
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 8
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 8
+Stack Top: 8
+Symbol popped from Stack: 8
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 6
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 6
+Stack Top: 6
+Symbol popped from Stack: 6
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 2
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 2
+Stack Top: 2
+Symbol popped from Stack: 2
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: a
+Symbol popped from Stack: a
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 2
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 2
+Stack Top: 2
+Symbol popped from Stack: 2
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: a
+Symbol popped from Stack: a
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: epsilon
+Symbol popped from Stack: epsilon
+Symbols pushed onto Stack: C+C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: +
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: +
+Symbol popped from Stack: +
+Symbols pushed onto Stack: .Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 4
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 4
+Stack Top: 4
+Symbol popped from Stack: 4
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 1
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 1
+Stack Top: 1
+Symbol popped from Stack: 1
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: C*C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: *
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: *
+Symbol popped from Stack: *
+Symbols pushed onto Stack: Y.Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 1
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 1
+Stack Top: 1
+Symbol popped from Stack: 1
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 2
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 2
+Stack Top: 2
+Symbol popped from Stack: 2
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: C/C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: /
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: /
+Symbol popped from Stack: /
+Symbols pushed onto Stack: Y.Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 0
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 0
+Stack Top: 0
+Symbol popped from Stack: 0
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 0
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 0
+Stack Top: 0
+Symbol popped from Stack: 0
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 1
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 1
+Stack Top: 1
+Symbol popped from Stack: 1
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: C/C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: /
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: /
+Symbol popped from Stack: /
+Symbols pushed onto Stack: Y.Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 5
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 5
+Stack Top: 5
+Symbol popped from Stack: 5
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 2
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 2
+Stack Top: 2
+Symbol popped from Stack: 2
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 1
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 1
+Stack Top: 1
+Symbol popped from Stack: 1
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 2
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 2
+Stack Top: 2
+Symbol popped from Stack: 2
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 3
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 3
+Stack Top: 3
+Symbol popped from Stack: 3
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: C-C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: -
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: -
+Symbol popped from Stack: -
+Symbols pushed onto Stack: .Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 9
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 9
+Stack Top: 9
+Symbol popped from Stack: 9
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: C+C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: +
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: +
+Symbol popped from Stack: +
+Symbols pushed onto Stack: .Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 5
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 5
+Stack Top: 5
+Symbol popped from Stack: 5
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 3
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 3
+Stack Top: 3
+Symbol popped from Stack: 3
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: C/C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: /
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: /
+Symbol popped from Stack: /
+Symbols pushed onto Stack: Y.Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 7
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 7
+Stack Top: 7
+Symbol popped from Stack: 7
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: a
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: a
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+String 'aa48622.+.41*1.2/00.1/521.23-.9+.53/7.aa' is accepted.
+Testing: abba382.89*14.2aba
+String 'abba382.89*14.2aba' is rejected.
+Testing: aba4.91-.*17.9aba
+String 'aba4.91-.*17.9aba' is rejected.
+Testing: aa44.88.6+3.208aa
+String 'aa44.88.6+3.208aa' is rejected.
+Testing: aba(1.2+(3.5-.9)/19).3aba
+String 'aba(1.2+(3.5-.9)/19).3aba' is rejected.
+Testing: abba(.4)64abba
+String 'abba(.4)64abba' is rejected.
+Testing: aba((824.23+(9.22-00.0)*21.2))+((.2/7.))abba
+String 'aba((824.23+(9.22-00.0)*21.2))+((.2/7.))abba' is rejected.
+Testing: aba(())aba
+String 'aba(())aba' is rejected.
+Testing: abba((14.252+(692.211*(.39+492.1))/49.235)abba
+String 'abba((14.252+(692.211*(.39+492.1))/49.235)abba' is rejected.
+Testing: abba+6.5abba
+String 'abba+6.5abba' is rejected.
+Testing: aa26.0*(.87/((4.+.2)/(23.1)-2.9)+6.)/(((823.*.333-57.*8.0)/.33))+.76aa
+-----------------------------------------------------------
+Present State: q0
+Current input symbol under R-head: epsilon
+Stack Top: epsilon
+Symbol popped from Stack: epsilon
+Symbols pushed onto Stack: S
+Next state: q1
+-----------------------------------------------------------
+Present State: q1
+Current input symbol under R-head: epsilon
+Stack Top: S
+Symbol popped from Stack: S
+Symbols pushed onto Stack: aTa
+Next state: q2
+-----------------------------------------------------------
+Present State: q2
+Current input symbol under R-head: a
+Stack Top: a
+Symbol popped from Stack: a
+Symbols pushed onto Stack: epsilon
+Next state: q2
+-----------------------------------------------------------
+Present State: q2
+Current input symbol under R-head: epsilon
+Stack Top: T
+Symbol popped from Stack: T
+Symbols pushed onto Stack: aCa
+Next state: q3
+-----------------------------------------------------------
+Present State: q3
+Current input symbol under R-head: a
+Stack Top: a
+Symbol popped from Stack: a
+Symbols pushed onto Stack: epsilon
+Next state: q3
+-----------------------------------------------------------
+Present State: q3
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: H
+Next state: q4
+-----------------------------------------------------------
+Present State: q4
+Current input symbol under R-head: epsilon
+Stack Top: H
+Symbol popped from Stack: H
+Symbols pushed onto Stack: Y.Y
+Next state: q5
+-----------------------------------------------------------
+Present State: q5
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 2
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 2
+Stack Top: 2
+Symbol popped from Stack: 2
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 6
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 6
+Stack Top: 6
+Symbol popped from Stack: 6
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 0
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 0
+Stack Top: 0
+Symbol popped from Stack: 0
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: C*C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: *
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: *
+Symbol popped from Stack: *
+Symbols pushed onto Stack: (C)
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: (
+Stack Top: )
+Symbol popped from Stack: )
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: H
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: H
+Symbol popped from Stack: H
+Symbols pushed onto Stack: .Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 8
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 8
+Stack Top: 8
+Symbol popped from Stack: 8
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 7
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 7
+Stack Top: 7
+Symbol popped from Stack: 7
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: (
+Symbol popped from Stack: (
+Symbols pushed onto Stack: C/C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: /
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: /
+Symbol popped from Stack: /
+Symbols pushed onto Stack: (C)
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: (
+Stack Top: )
+Symbol popped from Stack: )
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: (C)
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: (
+Stack Top: )
+Symbol popped from Stack: )
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: H
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: H
+Symbol popped from Stack: H
+Symbols pushed onto Stack: Y.Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 4
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 4
+Stack Top: 4
+Symbol popped from Stack: 4
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: C+C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: +
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: +
+Symbol popped from Stack: +
+Symbols pushed onto Stack: .Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 2
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 2
+Stack Top: 2
+Symbol popped from Stack: 2
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: )
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: C/C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: /
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: /
+Symbol popped from Stack: /
+Symbols pushed onto Stack: (C)
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: (
+Stack Top: )
+Symbol popped from Stack: )
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: H
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: H
+Symbol popped from Stack: H
+Symbols pushed onto Stack: Y.Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 2
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 2
+Stack Top: 2
+Symbol popped from Stack: 2
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 3
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 3
+Stack Top: 3
+Symbol popped from Stack: 3
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 1
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 1
+Stack Top: 1
+Symbol popped from Stack: 1
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: )
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: (
+Symbol popped from Stack: (
+Symbols pushed onto Stack: C-C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: -
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: -
+Symbol popped from Stack: -
+Symbols pushed onto Stack: Y.Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 2
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 2
+Stack Top: 2
+Symbol popped from Stack: 2
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 9
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 9
+Stack Top: 9
+Symbol popped from Stack: 9
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: )
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: C+C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: +
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: +
+Symbol popped from Stack: +
+Symbols pushed onto Stack: Y.Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 6
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 6
+Stack Top: 6
+Symbol popped from Stack: 6
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: )
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: C/C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: /
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: /
+Symbol popped from Stack: /
+Symbols pushed onto Stack: (C)
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: (
+Stack Top: )
+Symbol popped from Stack: )
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: (C)
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: (
+Stack Top: )
+Symbol popped from Stack: )
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: (C)
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: (
+Stack Top: )
+Symbol popped from Stack: )
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: H
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: H
+Symbol popped from Stack: H
+Symbols pushed onto Stack: Y.Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 8
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 8
+Stack Top: 8
+Symbol popped from Stack: 8
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 2
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 2
+Stack Top: 2
+Symbol popped from Stack: 2
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 3
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 3
+Stack Top: 3
+Symbol popped from Stack: 3
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: (
+Symbol popped from Stack: (
+Symbols pushed onto Stack: C*C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: *
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: *
+Symbol popped from Stack: *
+Symbols pushed onto Stack: .Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 3
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 3
+Stack Top: 3
+Symbol popped from Stack: 3
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 3
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 3
+Stack Top: 3
+Symbol popped from Stack: 3
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 3
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 3
+Stack Top: 3
+Symbol popped from Stack: 3
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: (
+Symbol popped from Stack: (
+Symbols pushed onto Stack: C-C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: -
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: -
+Symbol popped from Stack: -
+Symbols pushed onto Stack: Y.Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 5
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 5
+Stack Top: 5
+Symbol popped from Stack: 5
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 7
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 7
+Stack Top: 7
+Symbol popped from Stack: 7
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: C*C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: *
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: *
+Symbol popped from Stack: *
+Symbols pushed onto Stack: Y.Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 8
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 8
+Stack Top: 8
+Symbol popped from Stack: 8
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 0
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 0
+Stack Top: 0
+Symbol popped from Stack: 0
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: )
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: C/C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: /
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: /
+Symbol popped from Stack: /
+Symbols pushed onto Stack: .Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 3
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 3
+Stack Top: 3
+Symbol popped from Stack: 3
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 3
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 3
+Stack Top: 3
+Symbol popped from Stack: 3
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: )
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: )
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: C+C
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: +
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: +
+Symbol popped from Stack: +
+Symbols pushed onto Stack: .Y
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: .
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: .
+Symbol popped from Stack: .
+Symbols pushed onto Stack: NY
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: Y
+Symbol popped from Stack: Y
+Symbols pushed onto Stack: 7
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 7
+Stack Top: 7
+Symbol popped from Stack: 7
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: N
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: epsilon
+Stack Top: N
+Symbol popped from Stack: N
+Symbols pushed onto Stack: 6
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: 6
+Stack Top: 6
+Symbol popped from Stack: 6
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: a
+Stack Top: C
+Symbol popped from Stack: C
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+Present State: q6
+Current input symbol under R-head: a
+Stack Top: (
+Symbol popped from Stack: (
+Symbols pushed onto Stack: epsilon
+Next state: q6
+-----------------------------------------------------------
+String 'aa26.0*(.87/((4.+.2)/(23.1)-2.9)+6.)/(((823.*.333-57.*8.0)/.33))+.76aa' is accepted.
+Testing: abba.0*(32.922+.7-*9.))abba
+String 'abba.0*(32.922+.7-*9.))abba' is rejected.
+Testing: aba(4.+(.8-9.))/2.)*3.4+(5.21/34.2aba
+String 'aba(4.+(.8-9.))/2.)*3.4+(5.21/34.2aba' is rejected.
+
+Acceptance/Rejection messages at lines: 284, 286, 996, 998, 1000, 1002, 1004, 1006, 1008, 1010, 1012, 1014, 2165, 2167, 2169
